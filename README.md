@@ -64,16 +64,6 @@ This repository contains laboratory works completed during various courses at th
   - Matplotlib
   - Sympy
 
-## Repository Structure
-├── MatAn/
-│ └── Lab1_Fourier.ipynb
-├── LinearAlgebra/
-│ ├── LinearRegression.ipynb
-│ └── SingularValueDecomposition.ipynb
-└── Economics/
-├── CompPrac_1.ipynb
-└── CompPrac_2.ipynb
-
 ## Technologies Used
 - **Programming Language**: Python 3.x
 - **Core Libraries**:
